@@ -1,3 +1,3 @@
 def find_max_value(array)
-  # Add your solution here
+  array.index == 5
 end
